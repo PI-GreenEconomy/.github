@@ -32,12 +32,16 @@ Temos o objetivo de incentivar as pessoas a adotarem práticas de <strong>consum
 
 <h3>Back-end</h3>
 
+[Repositório](https://github.com/PI-GreenEconomy/backend)
+
 ![MySQL](https://img.shields.io/badge/MySQL-193?style=for-the-badge&logo=mysql)
 ![Nest.js](https://img.shields.io/badge/nest.js-193?style=for-the-badge&logo=nestjs)
 ![Insomnia](https://img.shields.io/badge/insomnia-193?style=for-the-badge&logo=insomnia)
 
 
 <h3>Front-end</h3>
+
+[Repositório](https://github.com/PI-GreenEconomy/frontend)
 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-193?style=for-the-badge&logo=tailwind-css)
 ![React](https://img.shields.io/badge/react-193?style=for-the-badge&logo=react)
