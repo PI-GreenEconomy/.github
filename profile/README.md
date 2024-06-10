@@ -17,7 +17,7 @@ Temos o objetivo de incentivar as pessoas a adotarem práticas de <strong>consum
 
 <div>
 
-<img  src="./ods12.png" width="400">
+<img  src="https://github.com/PI-GreenEconomy/.github/raw/main/profile/ods12.png" width="400">
 
 </div>
 
