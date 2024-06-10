@@ -36,12 +36,16 @@ Temos o objetivo de incentivar as pessoas a adotarem práticas de <strong>consum
 ![Nest.js](https://img.shields.io/badge/nest.js-193?style=for-the-badge&logo=nestjs)
 ![Insomnia](https://img.shields.io/badge/insomnia-193?style=for-the-badge&logo=insomnia)
 
+[Repositório Back-end](https://github.com/PI-GreenEconomy/backend)
+
 
 <h3>Front-end</h3>
 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-193?style=for-the-badge&logo=tailwind-css)
 ![React](https://img.shields.io/badge/react-193?style=for-the-badge&logo=react)
 ![Netlify](https://img.shields.io/badge/netlify-193?style=for-the-badge&logo=netlify)
+
+[Repositório Front-end](https://github.com/PI-GreenEconomy/frontend)
 
 <h3> Outras Ferramentas</h3>
 
