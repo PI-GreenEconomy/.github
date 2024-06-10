@@ -1,5 +1,5 @@
 
-<img align="center" src="./Logo GreenEconomy.svg" alt="GreenEconomy imagem" width="200" heigth= "200">
+<img align="center" src="https://github.com/PI-GreenEconomy/.github/raw/main/profile/Logo%20GreenEconomy.svg" alt="GreenEconomy imagem" width="200" heigth= "200">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=17F3A5&random=false&width=800&height=100&lines=Economia+verde+para+um+futuro+sustent%C3%A1vel++e+de+consumo+respons%C3%A1vel!)](https://git.io/typing-svg)
 
